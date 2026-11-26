@@ -4,7 +4,7 @@ Trabajo Práctico Integrador · **Programación IV** · Tecnicatura Universitari
 
 **Alumno:** Daniel Alfredo Oscar Alderete · Legajo 118814
 
-- **Repositorio:** https://github.com/Dann07-ops/TPI-Programci-n-IV.git
+- **Repositorio:** https://github.com/Dann07-ops/TPI-Programci-n-IV
 - **Video de demostración:** https://youtu.be/SX48VyhSDX8
 
 Aplicación web para un negocio de comidas. Los clientes se registran, recorren el catálogo, arman un carrito y confirman pedidos con dirección y forma de pago. El administrador gestiona categorías, productos, stock, pedidos y usuarios desde un panel.
